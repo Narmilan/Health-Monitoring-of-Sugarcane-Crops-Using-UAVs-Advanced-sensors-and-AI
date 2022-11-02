@@ -1,1 +1,0 @@
-# Health-Monitoring-of-Sugarcane-Crops-Using-UAVs-Advanced-sensors-and-AI
